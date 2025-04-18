@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Scrapy cache and logs
+.scrapy/
+*.log
+
+# Egg info
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+
+# VSCode or system files
+.vscode/
+.DS_Store
+Thumbs.db
